@@ -1,0 +1,30 @@
+
+
+.grid {
+  height: 100vh;
+  display: grid;
+  grid-template-rows: ifr ifr;
+  gap: 20px;
+  margin: 0 auto;
+  background-image: linear-gradient(to right, #fbfbfb, #fdcccb);
+}
+
+h1 {
+  color: black;
+  border-radius: solid;
+  text-align: center;
+}
+
+
+.left-side{
+  padding: 20px;
+  margin: 200px;
+  border-radius: solid;
+}
+
+.right-side {
+  grid-template-columns: ifr ifr;
+  padding: 20px;
+  margin: 100px;
+  border-radius: solid;
+}
