@@ -11,6 +11,7 @@ function Login (){
         </div>
         <div>
         <loginStyle.input
+        type="text"
         placeholder="text"
         />
         <loginStyle.StyledButton>
