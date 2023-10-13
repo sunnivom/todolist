@@ -1,11 +1,24 @@
-
+import { loginStyle } from "./Style"
 
 function Login (){
 
-    return(
+    return( <>
         <div>
-            <h1>HOME PAGE</h1>
+            <h3>Welcome to To-do list app</h3>
         </div>
+        <div>
+            <h3>Type your name to start</h3>
+        </div>
+        <div>
+        <loginStyle.input
+        placeholder="text"
+        />
+        <loginStyle.StyledButton>
+            Start
+        </loginStyle.StyledButton>
+        </div>
+        
+        </>
     )
 }
 
