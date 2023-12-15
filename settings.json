@@ -1,0 +1,6 @@
+{
+    "styled-components-snippets.language": "typescript",
+    "files.associations": {
+        "*.tsx": "typescriptreact"
+    }
+}

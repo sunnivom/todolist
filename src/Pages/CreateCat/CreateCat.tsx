@@ -1,13 +1,9 @@
-
-
-
-function CreateCat (){
-
-    return(
-        <div>
-            <h1>HOME PAGE</h1>
-        </div>
-    )
+function CreateCat() {
+  return (
+    <div>
+      <h1>HOME PAGE</h1>
+    </div>
+  );
 }
 
-export default CreateCat
+export default CreateCat;
