@@ -1,0 +1,14 @@
+.navleft {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 10%;
+  background-color: #EAC1F9;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}

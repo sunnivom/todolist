@@ -2,7 +2,6 @@ body, html {
     height: 100%;
     margin: 0;
     overflow: hidden;
-    background-color: rgba(251, 164, 163, 0.25);
   }
   
   .container {
